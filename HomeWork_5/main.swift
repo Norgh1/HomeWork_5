@@ -15,15 +15,7 @@ print("Hello gitc lesson!")
 //      հուշում օգտագործել 1…9 Range-ը
 
 
-let a:Int = 2390
-
-
-switch a {
-case 0...3:
-    print("!!!!")
-default:
-    print("!!!")
-}
+// առաջի խնդիրը չեմ գրել
 
 //Home Work 5_2
 //Հայտարարել փոփոխական a Int տիպի։
